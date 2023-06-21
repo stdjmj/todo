@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E33F30BB-6AB9-41FE-8CB3-91424C2B2330"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B2E4CEAB-EBB9-4F35-8E56-ED22362913BF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "todoAlarm/TodoControllerView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "TodoControllerView"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "168B150C-F64F-42FD-90F1-0AAB2F2F119A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "todoAlarm/TodoController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "TodoController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "168B150C-F64F-42FD-90F1-0AAB2F2F119A - b4fd97968ad3dbbd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "todoAlarm.TodoController.isAlarm.getter : Swift.Bool"
+                  moduleName = "todoAlarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daelimci10004/Documents/todoAlarm/todoAlarm/TodoController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "67">
+               </Location>
+               <Location
+                  uuid = "168B150C-F64F-42FD-90F1-0AAB2F2F119A - 8b9195a2c224b3b1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "todoAlarm.TodoController.isAlarm.setter : Swift.Bool"
+                  moduleName = "todoAlarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daelimci10004/Documents/todoAlarm/todoAlarm/TodoController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "95">
+               </Location>
+               <Location
+                  uuid = "168B150C-F64F-42FD-90F1-0AAB2F2F119A - eadfd8508ae3b1a0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "todoAlarm.TodoController.isAlarm.modify : Swift.Bool"
+                  moduleName = "todoAlarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daelimci10004/Documents/todoAlarm/todoAlarm/TodoController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "168B150C-F64F-42FD-90F1-0AAB2F2F119A - 8c96199504d6abb1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "todoAlarm.TodoController.isAlarm.modify : Swift.Bool with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "todoAlarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daelimci10004/Documents/todoAlarm/todoAlarm/TodoController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "15">
+               </Location>
+               <Location
+                  uuid = "168B150C-F64F-42FD-90F1-0AAB2F2F119A - 6cdf80f7f2cc4eb9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "todoAlarm.TodoController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; todoAlarm.TodoController"
+                  moduleName = "todoAlarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daelimci10004/Documents/todoAlarm/todoAlarm/TodoController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "395">
+               </Location>
+               <Location
+                  uuid = "168B150C-F64F-42FD-90F1-0AAB2F2F119A - b12f07b0872ce37d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "todoAlarm.TodoController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;todoAlarm.TodoController&gt;"
+                  moduleName = "todoAlarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daelimci10004/Documents/todoAlarm/todoAlarm/TodoController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "352">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
